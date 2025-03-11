@@ -1,1 +1,1 @@
-# odin-recipes
+This project is a basic recipe website built during the completion of The Odin Project Foundations course.
